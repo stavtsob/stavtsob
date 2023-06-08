@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on a messaging platform.
 
 ## My daily.dev card
-<a href="https://app.daily.dev/stavtsob"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Stavros Tsompanidis's Dev Card"/></a>
+<a href="https://app.daily.dev/stavtsob"><img src="https://github.com/stavtsob/stavtsob/blob/main/devcard.svg" width="400" alt="Stavros Tsompanidis's Dev Card"/></a>
